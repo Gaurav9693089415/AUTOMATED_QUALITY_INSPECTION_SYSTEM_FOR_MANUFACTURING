@@ -1,0 +1,23 @@
+# Numerical & utilities
+numpy>=1.23
+tqdm>=4.66
+
+
+
+# Deep Learning (CPU/GPU compatible)
+torch>=2.0
+torchvision>=0.15
+
+# Data augmentation
+albumentations>=1.4
+
+# Evaluation & visualization
+matplotlib>=3.7
+
+# XML handling
+lxml>=4.9
+
+# Image processing
+opencv-python>=4.8.0
+Pillow>=9.5.0
+

@@ -1,0 +1,26 @@
+{
+  "status": "DEFECTIVE",
+  "quality": "FAIL",
+  "defect_count": 1,
+  "defects": [
+    {
+      "defect_type": "open",
+      "confidence": 0.5968535542488098,
+      "center_x": 82,
+      "center_y": 495,
+      "bounding_box": {
+        "x1": 66,
+        "y1": 480,
+        "x2": 98,
+        "y2": 510
+      },
+      "severity": "Medium"
+    }
+  ],
+  "detected_types": [
+    "open",
+    "short",
+    "mousebite",
+    "spur"
+  ]
+}

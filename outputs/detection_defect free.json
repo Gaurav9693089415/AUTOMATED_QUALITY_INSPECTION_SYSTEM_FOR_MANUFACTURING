@@ -1,0 +1,11 @@
+{
+  "status": "DEFECT-FREE",
+  "quality": "PASS",
+  "defect_count": 0,
+  "detected_types": [
+    "open",
+    "short",
+    "mousebite",
+    "spur"
+  ]
+}

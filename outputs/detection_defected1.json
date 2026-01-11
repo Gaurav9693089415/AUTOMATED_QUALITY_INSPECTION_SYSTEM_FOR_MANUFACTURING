@@ -1,0 +1,52 @@
+{
+  "status": "DEFECTIVE",
+  "quality": "FAIL",
+  "defect_count": 3,
+  "defects": [
+    {
+      "defect_type": "open",
+      "confidence": 0.8217400908470154,
+      "center_x": 377,
+      "center_y": 155,
+      "bounding_box": {
+        "x1": 369,
+        "y1": 144,
+        "x2": 385,
+        "y2": 166
+      },
+      "severity": "Low"
+    },
+    {
+      "defect_type": "open",
+      "confidence": 0.8095329403877258,
+      "center_x": 151,
+      "center_y": 306,
+      "bounding_box": {
+        "x1": 145,
+        "y1": 297,
+        "x2": 157,
+        "y2": 315
+      },
+      "severity": "Low"
+    },
+    {
+      "defect_type": "open",
+      "confidence": 0.5816867351531982,
+      "center_x": 103,
+      "center_y": 108,
+      "bounding_box": {
+        "x1": 96,
+        "y1": 96,
+        "x2": 110,
+        "y2": 120
+      },
+      "severity": "Low"
+    }
+  ],
+  "detected_types": [
+    "open",
+    "short",
+    "mousebite",
+    "spur"
+  ]
+}
